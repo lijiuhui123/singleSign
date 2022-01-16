@@ -7,6 +7,8 @@
   ![30093608_zJfw](https://user-images.githubusercontent.com/48615126/149646326-d29c4a20-1ceb-47f2-b024-71e85929bc4e.png)
 
   ![30093622_609p](https://user-images.githubusercontent.com/48615126/149646329-74ef6900-cac4-45a3-b98b-128b04ece4f3.png)
+  
+![2022-01-16_151637](https://user-images.githubusercontent.com/48615126/149649600-ce7336c3-0f81-4d98-8bf7-0f808a20d425.png)
 
 
   ### SSO 单点登录
